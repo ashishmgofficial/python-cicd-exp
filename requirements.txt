@@ -1,0 +1,4 @@
+pyspark==3.3.0
+pandas==1.4.3
+pyarrow>= 1.0.0
+isodate
